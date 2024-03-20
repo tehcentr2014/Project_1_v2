@@ -2,6 +2,9 @@
 
 This is the readme file for portfolio website. Below, you'll find information about the structure of the website, the technologies used, and instructions on how to deploy or modify the site.
 
+![cv-responsive](https://github.com/tehcentr2014/Project_1/assets/161617022/757525a8-f4de-45a7-9f98-4bcbafb724b4)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
